@@ -23,6 +23,7 @@
     "@react-pdf/primitives": "^3.0.0",
     "@react-pdf/textkit": "^4.2.0",
     "@react-pdf/types": "^2.3.1",
+    "@react-pdf/render": "git+https://github.com/lvhoanthanh/render-fork.git",
     "abs-svg-path": "^0.1.1",
     "color-string": "^1.5.3",
     "normalize-svg-path": "^1.1.0",
